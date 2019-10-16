@@ -1,0 +1,9 @@
+{
+  "name": "Max",
+  "age": 5,
+  "isMale": true,
+  "address": {
+    "numberAppartment": 37,
+    "nameStreet": "Json Street"
+  }
+}
